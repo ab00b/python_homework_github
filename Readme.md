@@ -6,4 +6,4 @@ Some simple Python exercise
 5. get table from internet and print
 6. get search result from baidu
 
-Some annotations is in Chinese-Simplfied(简体中文)
+Some annotations are in Chinese-Simplfied(简体中文)
